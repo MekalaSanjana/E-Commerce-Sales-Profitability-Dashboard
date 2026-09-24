@@ -121,7 +121,7 @@ The interactive Power BI dashboard provides a single view of **sales, customers,
 
 ### Dashboard Preview
 
-*Add your final Power BI dashboard screenshot here.*
+![E-Commerce Sales, Customer & Profitability Dashboard](screenshots/ECommerce_Dashboard.png)
 
 ---
 
